@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RESTAURANT</title>
+</head>
+<body>
+<center><h2><mark>NANDHU RESTAURANT</mark></h2></center>
+<center><img src="C:\nikhitha\download (3).jpeg"width="300px",height="150x"></img></center>
+<center><h2>Welcome to Nandhu Restaurant</h2></center>
+<ul>
+<h3>STARTERS</h3>
+<pre><img src="C:\nikhitha\download (1).jpeg"width="200px",height="100x"></img></pre>
+<pre>
+<li>chicken lollipops     250/-</li>
+<li>chicken popcorn       200/-</li>
+<li>chicken65             300/-</li>
+<li>chilli chicken        180/-</li>
+<li>chicken pakodi        100/-</li></pre>
+</ul>
+<ul><h3>
+VEG ITEMS</h3>
+<pre>
+<img src="C:\nikhitha\download (2).jpeg"width="200px",height="100x"></img>
+<li>panner biryani        120/-</li>
+<li>veg biryani           70/-</li>
+<li>veg palav             100/-</li>
+<li>veg fried rice        50/-</li>
+<li>mushroom biryani      150/-</li>
+<li>manchuria             60/-</li>
+</pre>
+</ul>
+<ul>
+<h3>NON-VEG ITEMS</h3>
+<pre><img src="C:\Users\nihar\Downloads\s4.jpeg"width="200",height="100"></img>
+<li>Chicken biryani       130/-</li>
+<li>Chicken dum biryani   150/-</li>
+<li>Mutton biryani        200/-</li>
+<li>Prawns biryani        220/-</li>
+<li>Fish biryani          180/-</li>
+<li>Egg biryani           110/-</li>  
+<li>Mutton dum biryani    250/-</li>
+</pre>
+</ul>
