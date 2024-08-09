@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<h1>Forms</h1>
+<from>
+<label for="name">Name</label>
+<input type="text" id="name"autofocus value="Niharika"><br>
+<label for="Email">Email</label>
+<input type="Email" id="Email" required><br>
+<label for="password">Password</label>
+<input type="Password" id="password" required><br>
+<label for="mobile number">mobile number</label>
+<input type="mobile number" id="mobile number"><br>
+<label for="female">female</label>
+<input type="radio" id="female">
+<label for="male">male</label>
+<input type="radio" id="male">
+<label for="checkbox">save password</label>
+<input type="checkbox">
+<input type="date"><br>
+<input type="time"><br>
+<input type="file">
+<input type="number">
+<input type="color">
+<input type="submit" value="submit">
+</form>
+</body>
+</html>
